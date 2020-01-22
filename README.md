@@ -5,6 +5,8 @@ The game is set in the new Galar reigion and include many new pokemon with some 
 1. Sobble (Water)
 1. Grookey (Grass)
 
+You can find more information on the first pokemon game in Generation 8 [here](https://www.serebii.net/swordshield/).
+
 ## Sword Exclusive Pokemon
 
 There are 31 sword exclusive pokemon according to [serebii.net](https://www.serebii.net/swordshield/exclusives.shtml)
